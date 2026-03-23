@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import ToolCard from '@/components/ToolCard';
+import AdBanner from '@/components/AdBanner';
 import { categories } from '@/data/categories';
 import toolsData from '@/data/tools/zh.json';
 
@@ -75,17 +76,21 @@ export default async function CategoryPage({
             {/* Main Content - Tools Grid */}
             <div className="flex-1">
               {tools.length > 0 ? (
-                <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4">
-                  {tools.map((tool, i) => (
-                    <ToolCard
-                      key={`${tool.id}-${i}`}
-                      name={tool.name}
-                      url={tool.url}
-                      description={tool.description}
-                      icon={tool.icon}
-                    />
-                  ))}
-                </div>
+                <>
+                  <AdBanner />
+                  <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4">
+                    {tools.map((tool, i) => (
+                      <ToolCard
+                        key={`${tool.id}-${i}`}
+                        name={tool.name}
+                        url={tool.url}
+                        description={tool.description}
+                        icon={tool.icon}
+                      />
+                    ))}
+                  </div>
+                  <AdBanner />
+                </>
               ) : (
                 <div className="text-center py-20">
                   <span className="text-6xl mb-4 block">🔍</span>
