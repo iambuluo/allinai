@@ -1,0 +1,66 @@
+{
+  "site": {
+    "title": "AllInAI - AI工具导航",
+    "description": "1000+ AI工具集合，全球AI工具导航大全",
+    "keywords": "AI工具, AI导航, 人工智能, AI写作, AI绘画, AI视频, AI编程"
+  },
+  "nav": {
+    "home": "首页",
+    "favorites": "工具分类",
+    "latest": "最新工具",
+    "about": "关于我们"
+  },
+  "home": {
+    "hero_title": "发现全球最佳 AI 工具",
+    "hero_subtitle": "精选 1000+ 优质 AI 工具，覆盖写作、图像、视频、编程等多个领域",
+    "search_placeholder": "搜索 AI 工具...",
+    "popular_categories": "热门分类",
+    "featured_tools": "精选工具",
+    "view_all": "查看全部",
+    "tool_count": "个工具"
+  },
+  "categories": {
+    "ai-writing-tools": "AI写作工具",
+    "ai-image-tools": "AI图像工具",
+    "ai-video-tools": "AI视频工具",
+    "ai-office-tools": "AI办公工具",
+    "ai-agent": "AI智能体",
+    "ai-chatbots": "AI聊天助手",
+    "ai-programming-tools": "AI编程工具",
+    "ai-design-tools": "AI设计工具",
+    "ai-audio-tools": "AI音频工具",
+    "ai-search-engines": "AI搜索引擎",
+    "ai-frameworks": "AI开发平台",
+    "websites-to-learn-ai": "AI学习网站",
+    "ai-models": "AI训练模型",
+    "ai-content-detection-and-optimization-tools": "AI内容检测",
+    "ai-prompt-tools": "AI提示指令"
+  },
+  "category": {
+    "title": "分类",
+    "tools_count": "个工具",
+    "no_tools": "暂无工具",
+    "description": "精选优质AI工具推荐"
+  },
+  "tool": {
+    "visit": "访问",
+    "description": "简介",
+    "tags": "标签"
+  },
+  "footer": {
+    "copyright": "© 2025 AllInAI. All rights reserved.",
+    "disclaimer": "免责声明：本站所有工具信息均来自网络，仅供参考。",
+    "language": "语言"
+  },
+  "theme": {
+    "light": "浅色",
+    "dark": "深色",
+    "toggle": "切换主题"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "back": "返回",
+    "more": "更多"
+  }
+}

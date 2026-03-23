@@ -1,0 +1,66 @@
+{
+  "site": {
+    "title": "AllInAI - AI Tools Directory",
+    "description": "1000+ AI tools collection, the ultimate global AI tools directory",
+    "keywords": "AI tools, AI directory, artificial intelligence, AI writing, AI image, AI video, AI coding"
+  },
+  "nav": {
+    "home": "Home",
+    "favorites": "Categories",
+    "latest": "Latest",
+    "about": "About"
+  },
+  "home": {
+    "hero_title": "Discover the Best AI Tools Worldwide",
+    "hero_subtitle": "Curated 1000+ premium AI tools covering writing, image, video, coding and more",
+    "search_placeholder": "Search AI tools...",
+    "popular_categories": "Popular Categories",
+    "featured_tools": "Featured Tools",
+    "view_all": "View All",
+    "tool_count": "tools"
+  },
+  "categories": {
+    "ai-writing-tools": "AI Writing Tools",
+    "ai-image-tools": "AI Image Tools",
+    "ai-video-tools": "AI Video Tools",
+    "ai-office-tools": "AI Office Tools",
+    "ai-agent": "AI Agents",
+    "ai-chatbots": "AI Chatbots",
+    "ai-programming-tools": "AI Coding Tools",
+    "ai-design-tools": "AI Design Tools",
+    "ai-audio-tools": "AI Audio Tools",
+    "ai-search-engines": "AI Search Engines",
+    "ai-frameworks": "AI Platforms",
+    "websites-to-learn-ai": "AI Learning",
+    "ai-models": "AI Models",
+    "ai-content-detection-and-optimization-tools": "AI Content Detection",
+    "ai-prompt-tools": "AI Prompt Tools"
+  },
+  "category": {
+    "title": "Category",
+    "tools_count": "tools",
+    "no_tools": "No tools available",
+    "description": "Curated premium AI tool recommendations"
+  },
+  "tool": {
+    "visit": "Visit",
+    "description": "Description",
+    "tags": "Tags"
+  },
+  "footer": {
+    "copyright": "© 2025 AllInAI. All rights reserved.",
+    "disclaimer": "Disclaimer: All tool information is sourced from the web and for reference only.",
+    "language": "Language"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle Theme"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "back": "Back",
+    "more": "More"
+  }
+}

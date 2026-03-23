@@ -1,0 +1,66 @@
+{
+  "site": {
+    "title": "AllInAI - Directorio de Herramientas IA",
+    "description": "Más de 1000 herramientas de IA, el directorio global de herramientas de inteligencia artificial",
+    "keywords": "herramientas IA, directorio IA, inteligencia artificial, escritura IA, imagen IA, video IA, programación IA"
+  },
+  "nav": {
+    "home": "Inicio",
+    "favorites": "Categorías",
+    "latest": "Novedades",
+    "about": "Acerca de"
+  },
+  "home": {
+    "hero_title": "Descubre las Mejores Herramientas IA del Mundo",
+    "hero_subtitle": "Más de 1000 herramientas IA premium seleccionadas, cubriendo escritura, imagen, video, programación y más",
+    "search_placeholder": "Buscar herramientas IA...",
+    "popular_categories": "Categorías Populares",
+    "featured_tools": "Herramientas Destacadas",
+    "view_all": "Ver Todo",
+    "tool_count": "herramientas"
+  },
+  "categories": {
+    "ai-writing-tools": "Escritura IA",
+    "ai-image-tools": "Imagen IA",
+    "ai-video-tools": "Video IA",
+    "ai-office-tools": "Oficina IA",
+    "ai-agent": "Agentes IA",
+    "ai-chatbots": "Chatbots IA",
+    "ai-programming-tools": "Programación IA",
+    "ai-design-tools": "Diseño IA",
+    "ai-audio-tools": "Audio IA",
+    "ai-search-engines": "Buscadores IA",
+    "ai-frameworks": "Plataformas IA",
+    "websites-to-learn-ai": "Aprendizaje IA",
+    "ai-models": "Modelos IA",
+    "ai-content-detection-and-optimization-tools": "Detección de Contenido IA",
+    "ai-prompt-tools": "Prompts IA"
+  },
+  "category": {
+    "title": "Categoría",
+    "tools_count": "herramientas",
+    "no_tools": "No hay herramientas disponibles",
+    "description": "Recomendaciones de herramientas IA premium seleccionadas"
+  },
+  "tool": {
+    "visit": "Visitar",
+    "description": "Descripción",
+    "tags": "Etiquetas"
+  },
+  "footer": {
+    "copyright": "© 2025 AllInAI. Todos los derechos reservados.",
+    "disclaimer": "Aviso: Toda la información de herramientas proviene de la web y es solo de referencia.",
+    "language": "Idioma"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "toggle": "Cambiar Tema"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "back": "Volver",
+    "more": "Más"
+  }
+}

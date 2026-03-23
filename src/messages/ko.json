@@ -1,0 +1,66 @@
+{
+  "site": {
+    "title": "AllInAI - AI 도구 네비게이션",
+    "description": "1000개 이상의 AI 도구 컬렉션, 글로벌 AI 도구 디렉토리",
+    "keywords": "AI 도구, AI 네비게이션, 인공지능, AI 글쓰기, AI 이미지, AI 비디오, AI 코딩"
+  },
+  "nav": {
+    "home": "홈",
+    "favorites": "카테고리",
+    "latest": "최신",
+    "about": "소개"
+  },
+  "home": {
+    "hero_title": "전 세계 최고의 AI 도구를 발견하세요",
+    "hero_subtitle": "엄선된 1000개 이상의 프리미엄 AI 도구, 글쓰기, 이미지, 비디오, 코딩 등 다양한 분야 커버",
+    "search_placeholder": "AI 도구 검색...",
+    "popular_categories": "인기 카테고리",
+    "featured_tools": "추천 도구",
+    "view_all": "전체 보기",
+    "tool_count": "개 도구"
+  },
+  "categories": {
+    "ai-writing-tools": "AI 글쓰기 도구",
+    "ai-image-tools": "AI 이미지 도구",
+    "ai-video-tools": "AI 비디오 도구",
+    "ai-office-tools": "AI 오피스 도구",
+    "ai-agent": "AI 에이전트",
+    "ai-chatbots": "AI 챗봇",
+    "ai-programming-tools": "AI 코딩 도구",
+    "ai-design-tools": "AI 디자인 도구",
+    "ai-audio-tools": "AI 오디오 도구",
+    "ai-search-engines": "AI 검색 엔진",
+    "ai-frameworks": "AI 개발 플랫폼",
+    "websites-to-learn-ai": "AI 학습 사이트",
+    "ai-models": "AI 모델",
+    "ai-content-detection-and-optimization-tools": "AI 콘텐츠 검출",
+    "ai-prompt-tools": "AI 프롬프트 도구"
+  },
+  "category": {
+    "title": "카테고리",
+    "tools_count": "개 도구",
+    "no_tools": "도구가 없습니다",
+    "description": "엄선된 프리미엄 AI 도구 추천"
+  },
+  "tool": {
+    "visit": "방문",
+    "description": "설명",
+    "tags": "태그"
+  },
+  "footer": {
+    "copyright": "© 2025 AllInAI. All rights reserved.",
+    "disclaimer": "면책 조항: 모든 도구 정보는 웹에서 수집된 것이며 참고용입니다.",
+    "language": "언어"
+  },
+  "theme": {
+    "light": "라이트",
+    "dark": "다크",
+    "toggle": "테마 전환"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "back": "뒤로",
+    "more": "더보기"
+  }
+}

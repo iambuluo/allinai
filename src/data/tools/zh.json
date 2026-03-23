@@ -1,0 +1,3582 @@
+{
+  "ai-writing-tools": [
+    {
+      "id": "8204",
+      "name": "蛙蛙写作",
+      "url": "https://ai-bot.cn/sites/8204.html",
+      "description": "AI小说和内容创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6242",
+      "name": "讯飞绘文",
+      "url": "https://ai-bot.cn/sites/6242.html",
+      "description": "免费AI写作工具，5分钟生成一篇原创稿！",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "22626",
+      "name": "笔灵AI小说",
+      "url": "https://ai-bot.cn/sites/22626.html",
+      "description": "AI一键写全篇+爆文拆解，搞定大纲、素材，新手写作过稿神器！",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "49483",
+      "name": "稿定AI文案",
+      "url": "https://ai-bot.cn/sites/49483.html",
+      "description": "小红书、公众号、短视频AI文案生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69212",
+      "name": "01Agent",
+      "url": "https://ai-bot.cn/sites/69212.html",
+      "description": "AI图文创作工具，支持生成、排版、编辑、发布",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "53972",
+      "name": "笔目鱼",
+      "url": "https://ai-bot.cn/sites/53972.html",
+      "description": "专业英文论文写作器",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "36409",
+      "name": "稿易AI论文",
+      "url": "https://ai-bot.cn/sites/36409.html",
+      "description": "AI论文写作助手，免费生成2000字大纲",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7358",
+      "name": "千笔AI论文",
+      "url": "https://ai-bot.cn/sites/7358.html",
+      "description": "全网首家论文无限改稿平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14679",
+      "name": "66AI论文",
+      "url": "https://ai-bot.cn/sites/14679.html",
+      "description": "高质量、低查重、低AIGC率的AI论文写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "60799",
+      "name": "维普科创助手",
+      "url": "https://ai-bot.cn/sites/60799.html",
+      "description": "维普的一站式AI科研服务平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "56573",
+      "name": "沁言学术",
+      "url": "https://ai-bot.cn/sites/56573.html",
+      "description": "AI科研写作平台，一站式文献管理",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7381",
+      "name": "茅茅虫",
+      "url": "https://ai-bot.cn/sites/7381.html",
+      "description": "一站式AI论文写作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "67418",
+      "name": "GetDraft",
+      "url": "https://ai-bot.cn/sites/67418.html",
+      "description": "得到推出的多AI专家协作AI写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7244",
+      "name": "光速写作",
+      "url": "https://ai-bot.cn/sites/7244.html",
+      "description": "AI写作、PPT生成工具，单篇最长15000字",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61208",
+      "name": "YouMind",
+      "url": "https://ai-bot.cn/sites/61208.html",
+      "description": "专注提升创作效率和信息整合的AI原生工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14504",
+      "name": "万能小in",
+      "url": "https://ai-bot.cn/sites/14504.html",
+      "description": "3分钟4万字150+应用，只需标题，快速生成毕业论文",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "62793",
+      "name": "墨问",
+      "url": "https://ai-bot.cn/sites/62793.html",
+      "description": "专为创作者设计的AI笔记工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "72610",
+      "name": "超级小说家",
+      "url": "https://ai-bot.cn/sites/72610.html",
+      "description": "专为网文作家和短剧编剧打造的AI创作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "66997",
+      "name": "FeelFish",
+      "url": "https://ai-bot.cn/sites/66997.html",
+      "description": "专为小说创作者打造的 AI 写作 PC 客户端软件",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "66375",
+      "name": "Loomi",
+      "url": "https://ai-bot.cn/sites/66375.html",
+      "description": "创作版Claude Code，AI原生写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "66726",
+      "name": "落笔AI写作",
+      "url": "https://ai-bot.cn/sites/66726.html",
+      "description": "专注于小说网文创作的AI写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "18646",
+      "name": "小鱼AI写作",
+      "url": "https://ai-bot.cn/sites/18646.html",
+      "description": "一站式AI写作平台，一键生成高质量原创内容",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70397",
+      "name": "材料星AI",
+      "url": "https://ai-bot.cn/sites/70397.html",
+      "description": "专为秘书工作设计的AI写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "65468",
+      "name": "量子探险",
+      "url": "https://ai-bot.cn/sites/65468.html",
+      "description": "AI小说写作工具，长文本一键生成",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68892",
+      "name": "社研通",
+      "url": "https://ai-bot.cn/sites/68892.html",
+      "description": "专注于服务文科研究生的多模态AI学术写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "65034",
+      "name": "Rubriq",
+      "url": "https://ai-bot.cn/sites/65034.html",
+      "description": "免费试用，AI学术论文润色与翻译工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "597",
+      "name": "QuillBot",
+      "url": "https://ai-bot.cn/sites/597.html",
+      "description": "AI英/德语写作润色和改进工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16669",
+      "name": "创一AI",
+      "url": "https://ai-bot.cn/sites/16669.html",
+      "description": "AI评剧本，轻松创作爆款剧本",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "67827",
+      "name": "讯飞文书",
+      "url": "https://ai-bot.cn/sites/67827.html",
+      "description": "科大讯飞推出的AI公文写作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "62139",
+      "name": "Muset",
+      "url": "https://ai-bot.cn/sites/62139.html",
+      "description": "为深度创作者提供的AI原生写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "63152",
+      "name": "华文笔杆",
+      "url": "https://ai-bot.cn/sites/63152.html",
+      "description": "一站式AI公文写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "64875",
+      "name": "千页小说AI",
+      "url": "https://ai-bot.cn/sites/64875.html",
+      "description": "一站式AI小说写作平台，从灵感到完稿",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13",
+      "name": "秘塔写作猫",
+      "url": "https://ai-bot.cn/sites/13.html",
+      "description": "AI写作，文章自成",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "40039",
+      "name": "松果AI写作",
+      "url": "https://ai-bot.cn/sites/40039.html",
+      "description": "AI写作工具，支持批量生成文章",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "62117",
+      "name": "公文宝",
+      "url": "https://ai-bot.cn/sites/62117.html",
+      "description": "体制工作者的AI公文写作专家",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "15170",
+      "name": "讯飞写作",
+      "url": "https://ai-bot.cn/sites/15170.html",
+      "description": "科大讯飞推出的AI智能写作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61164",
+      "name": "PaperXie智能写作",
+      "url": "https://ai-bot.cn/sites/61164.html",
+      "description": "AI学术写作辅助工具，覆盖全流程服务",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7313",
+      "name": "FlowUs AI",
+      "url": "https://ai-bot.cn/sites/7313.html",
+      "description": "在线文档平台息流推出的AI创作助手，类似于Notion AI",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "46",
+      "name": "Rytr",
+      "url": "https://ai-bot.cn/sites/46.html",
+      "description": "AI内容生成和写作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16451",
+      "name": "迅捷AI写作",
+      "url": "https://ai-bot.cn/sites/16451.html",
+      "description": "迅捷办公团队推出的AI写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12962",
+      "name": "橙篇",
+      "url": "https://ai-bot.cn/sites/12962.html",
+      "description": "百度推出的AI长文理解和内容创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6044",
+      "name": "深言达意",
+      "url": "https://ai-bot.cn/sites/6044.html",
+      "description": "免费的词句查询智能写作辅助工具，输入模糊描述即可查找词句",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "913",
+      "name": "彩云小梦",
+      "url": "https://ai-bot.cn/sites/913.html",
+      "description": "彩云科技推出的智能AI故事写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14278",
+      "name": "MidReal",
+      "url": "https://ai-bot.cn/sites/14278.html",
+      "description": "AI互动式小说文本生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "15321",
+      "name": "墨狐AI",
+      "url": "https://ai-bot.cn/sites/15321.html",
+      "description": "短篇小说AI写作助手，专为网文小说作者设计",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "59730",
+      "name": "掌桥科研AI论文",
+      "url": "https://ai-bot.cn/sites/59730.html",
+      "description": "依托3亿+真实文献库的AI论文写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "59700",
+      "name": "灵犀速写",
+      "url": "https://ai-bot.cn/sites/59700.html",
+      "description": "AI小说创作工具，支持AI写作工作流",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "31",
+      "name": "Copy.ai",
+      "url": "https://ai-bot.cn/sites/31.html",
+      "description": "人工智能营销文案和内容创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14",
+      "name": "Jasper",
+      "url": "https://ai-bot.cn/sites/14.html",
+      "description": "AI文字内容创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14618",
+      "name": "库宝AI工作助手",
+      "url": "https://ai-bot.cn/sites/14618.html",
+      "description": "千库网推出的多功能AI创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "199",
+      "name": "Grammarly",
+      "url": "https://ai-bot.cn/sites/199.html",
+      "description": "AI英语语法和拼写检查写作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "26114",
+      "name": "文状元",
+      "url": "https://ai-bot.cn/sites/26114.html",
+      "description": "AI公文写作助手，提供大量范文库",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6316",
+      "name": "晓语台",
+      "url": "https://ai-bot.cn/sites/6316.html",
+      "description": "智能AI写作工具，内置500+创作模板",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "32",
+      "name": "Writesonic",
+      "url": "https://ai-bot.cn/sites/32.html",
+      "description": "AI写作，文案，释义工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "608",
+      "name": "DeepL Write",
+      "url": "https://ai-bot.cn/sites/608.html",
+      "description": "DeepL推出的AI驱动的写作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2304",
+      "name": "Jenni",
+      "url": "https://ai-bot.cn/sites/2304.html",
+      "description": "AI研究文章和博客写作辅助工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "23116",
+      "name": "有道翻译·AI写作",
+      "url": "https://ai-bot.cn/sites/23116.html",
+      "description": "网易有道推出的智能写作辅助工具，支持100多种语言",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "23677",
+      "name": "Wordvice AI",
+      "url": "https://ai-bot.cn/sites/23677.html",
+      "description": "Wordvice推出的免费AI写作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14511",
+      "name": "AI新媒体文章",
+      "url": "https://ai-bot.cn/sites/14511.html",
+      "description": "夸克推出的AI写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2009",
+      "name": "魔撰写作",
+      "url": "https://ai-bot.cn/sites/2009.html",
+      "description": "出门问问旗下推出的AI智能写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "26065",
+      "name": "宙语Cosmos",
+      "url": "https://ai-bot.cn/sites/26065.html",
+      "description": "专为中文写作设计的AI智能写作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5572",
+      "name": "灵构AI笔记",
+      "url": "https://ai-bot.cn/sites/5572.html",
+      "description": "在线安全的灵感收集、思路整理AI笔记工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2097",
+      "name": "有道写作",
+      "url": "https://ai-bot.cn/sites/2097.html",
+      "description": "网易有道出品的智能英文写作修改和润色工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5001",
+      "name": "写作蛙",
+      "url": "https://ai-bot.cn/sites/5001.html",
+      "description": "智谱AI推出的免费智能写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16171",
+      "name": "文思助手",
+      "url": "https://ai-bot.cn/sites/16171.html",
+      "description": "强大的AI写作智能体，支持生成专业报告和科研论文",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5577",
+      "name": "WriteWise",
+      "url": "https://ai-bot.cn/sites/5577.html",
+      "description": "喜马拉雅推出的免费网文和小说AI写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4430",
+      "name": "百度作家平台",
+      "url": "https://ai-bot.cn/sites/4430.html",
+      "description": "百度免费AI小说写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2404",
+      "name": "爱创作",
+      "url": "https://ai-bot.cn/sites/2404.html",
+      "description": "ZAKER新闻推出的AI写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2940",
+      "name": "Verse",
+      "url": "https://ai-bot.cn/sites/2940.html",
+      "description": "印象笔记旗下团队推出的AI写作和文档工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1325",
+      "name": "Moonbeam",
+      "url": "https://ai-bot.cn/sites/1325.html",
+      "description": "长文章AI内容创作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2195",
+      "name": "Cohesive",
+      "url": "https://ai-bot.cn/sites/2195.html",
+      "description": "人工智能文案内容创作和编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2388",
+      "name": "万彩AI",
+      "url": "https://ai-bot.cn/sites/2388.html",
+      "description": "全能型AI内容和文案创作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "9744",
+      "name": "WritingPal",
+      "url": "https://ai-bot.cn/sites/9744.html",
+      "description": "面向留学生的AI英文写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "59",
+      "name": "Magic Write",
+      "url": "https://ai-bot.cn/sites/59.html",
+      "description": "Canva旗下AI文案生成器",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1062",
+      "name": "NovelAI",
+      "url": "https://ai-bot.cn/sites/1062.html",
+      "description": "AI小说故事创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1930",
+      "name": "奇妙文",
+      "url": "https://ai-bot.cn/sites/1930.html",
+      "description": "出门问问推出的AI写作助理",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "575",
+      "name": "Spell.tools",
+      "url": "https://ai-bot.cn/sites/575.html",
+      "description": "高颜值AI内容营销创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "577",
+      "name": "HyperWrite",
+      "url": "https://ai-bot.cn/sites/577.html",
+      "description": "AI写作助手帮助你创作内容更自信",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "580",
+      "name": "Typeface AI",
+      "url": "https://ai-bot.cn/sites/580.html",
+      "description": "AI创意内容创作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "39",
+      "name": "悉语",
+      "url": "https://ai-bot.cn/sites/39.html",
+      "description": "阿里旗下智能文案工具，一键生成电商营销文案",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "37",
+      "name": "文涌Effidit",
+      "url": "https://ai-bot.cn/sites/37.html",
+      "description": "腾讯AI Lab开发的智能创作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12",
+      "name": "火龙果写作",
+      "url": "https://ai-bot.cn/sites/12.html",
+      "description": "AI驱动的文字生产力工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "24575",
+      "name": "树熊写作",
+      "url": "https://ai-bot.cn/sites/24575.html",
+      "description": "树熊AI推出的AI智能写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "592",
+      "name": "爱改写",
+      "url": "https://ai-bot.cn/sites/592.html",
+      "description": "AI改写、纠错、润色辅助工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "711",
+      "name": "HeyFriday",
+      "url": "https://ai-bot.cn/sites/711.html",
+      "description": "国内团队推出的智能AI写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "36",
+      "name": "易撰",
+      "url": "https://ai-bot.cn/sites/36.html",
+      "description": "新媒体AI内容创作助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "35",
+      "name": "智搜",
+      "url": "https://ai-bot.cn/sites/35.html",
+      "description": "Giiso写作机器人，内容创作AI辅助工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1333",
+      "name": "创作王",
+      "url": "https://ai-bot.cn/sites/1333.html",
+      "description": "AI一键帮助你创作营销内容",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1459",
+      "name": "字符狂飙",
+      "url": "https://ai-bot.cn/sites/1459.html",
+      "description": "全方位AI文档生成工具，快速生成专业文档",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7424",
+      "name": "XPaper AI",
+      "url": "https://ai-bot.cn/sites/7424.html",
+      "description": "晓语台旗下的论文写作辅助指导平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7575",
+      "name": "悟智写作",
+      "url": "https://ai-bot.cn/sites/7575.html",
+      "description": "人工智能驱动的自动化写作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1515",
+      "name": "讯飞智检",
+      "url": "https://ai-bot.cn/sites/1515.html",
+      "description": "讯飞推出的智能写作SaaS工具，支持智能写作后的校对与合规审核",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "782",
+      "name": "ContentBot",
+      "url": "https://ai-bot.cn/sites/782.html",
+      "description": "AI快速写作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1061",
+      "name": "Bearly",
+      "url": "https://ai-bot.cn/sites/1061.html",
+      "description": "AI阅读总结、写作和内容生成助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1295",
+      "name": "快文CopyDone",
+      "url": "https://ai-bot.cn/sites/1295.html",
+      "description": "AIGC原创内容创作和营销文案生成",
+      "icon": "https://favicon.im/ai-bot.cn"
+    }
+  ],
+  "ai-image-tools": [
+    {
+      "id": "9195",
+      "name": "绘蛙",
+      "url": "https://ai-bot.cn/sites/9195.html",
+      "description": "AI电商营销工具，免费生成商品图",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61384",
+      "name": "堆友AI商品图",
+      "url": "https://ai-bot.cn/sites/61384.html",
+      "description": "堆友AI推出AI商品图生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68318",
+      "name": "LiblibAI电商营销",
+      "url": "https://ai-bot.cn/sites/68318.html",
+      "description": "LiblibAI电商营销场景模型工具，丰富的LoRA模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "33694",
+      "name": "美图商拍",
+      "url": "https://ai-bot.cn/sites/33694.html",
+      "description": "美图设计室推出的AI商拍工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "49519",
+      "name": "稿定AI商品图",
+      "url": "https://ai-bot.cn/sites/49519.html",
+      "description": "稿定设计推出的AI商品图生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "57727",
+      "name": "光子AI",
+      "url": "https://ai-bot.cn/sites/57727.html",
+      "description": "专为电商商家推出的AI商拍工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6245",
+      "name": "Pic Copilot",
+      "url": "https://ai-bot.cn/sites/6245.html",
+      "description": "阿里国际推出的AI电商营销工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "41196",
+      "name": "蜂鸟AI",
+      "url": "https://ai-bot.cn/sites/41196.html",
+      "description": "赶海科技推出的跨境电商AI营销工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12165",
+      "name": "PhotoStudio AI",
+      "url": "https://ai-bot.cn/sites/12165.html",
+      "description": "虹软旗下推出的AI商拍工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70979",
+      "name": "蕉点AI",
+      "url": "https://ai-bot.cn/sites/70979.html",
+      "description": "多品类AI电商商品图生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69883",
+      "name": "潮际好麦",
+      "url": "https://ai-bot.cn/sites/69883.html",
+      "description": "AI赋能电商视觉革命，一站式智能商拍平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "24841",
+      "name": "千鹿AI",
+      "url": "https://ai-bot.cn/sites/24841.html",
+      "description": "AI商品图设计工具，专为跨境营销设计",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "50029",
+      "name": "妙思",
+      "url": "https://ai-bot.cn/sites/50029.html",
+      "description": "腾讯广告推出的一站式AI广告创意平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "25529",
+      "name": "美间AI商拍",
+      "url": "https://ai-bot.cn/sites/25529.html",
+      "description": "AI电商设计工具，一键生成高质量商品图",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13023",
+      "name": "Cliclic AI",
+      "url": "https://ai-bot.cn/sites/13023.html",
+      "description": "创客贴推出的AI商品图生成和编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "17398",
+      "name": "创自由",
+      "url": "https://ai-bot.cn/sites/17398.html",
+      "description": "快速设计商品图、广告图的AI作图工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2048",
+      "name": "羚珑",
+      "url": "https://ai-bot.cn/sites/2048.html",
+      "description": "京东推出的商品图智能设计小工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "175",
+      "name": "Pebblely",
+      "url": "https://ai-bot.cn/sites/175.html",
+      "description": "AI产品图精美背景添加",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "173",
+      "name": "Mokker AI",
+      "url": "https://ai-bot.cn/sites/173.html",
+      "description": "AI产品图添加背景",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11541",
+      "name": "花生图像",
+      "url": "https://ai-bot.cn/sites/11541.html",
+      "description": "AI电商产品图生成和背景抠图工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6749",
+      "name": "灵动AI",
+      "url": "https://ai-bot.cn/sites/6749.html",
+      "description": "专业的AI商品图生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "26931",
+      "name": "图生生",
+      "url": "https://ai-bot.cn/sites/26931.html",
+      "description": "专为电商设计的AI商拍工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13722",
+      "name": "WeShop唯象",
+      "url": "https://ai-bot.cn/sites/13722.html",
+      "description": "蘑菇街推出的AI商拍工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61408",
+      "name": "绘蛙AI转3D",
+      "url": "https://ai-bot.cn/sites/61408.html",
+      "description": "服装平铺图快速转换为3D立体展示图",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "60471",
+      "name": "Tripo AI",
+      "url": "https://ai-bot.cn/sites/60471.html",
+      "description": "AI 3D模型生成平台，文本、图像一键转3D模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "38482",
+      "name": "腾讯混元3D",
+      "url": "https://ai-bot.cn/sites/38482.html",
+      "description": "腾讯推出的一站式3D内容生产AI创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70251",
+      "name": "Neural4D",
+      "url": "https://ai-bot.cn/sites/70251.html",
+      "description": "AI一站式3D模型生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "66545",
+      "name": "Marble",
+      "url": "https://ai-bot.cn/sites/66545.html",
+      "description": "李飞飞World Labs推出的3D世界生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "57279",
+      "name": "Fast3D",
+      "url": "https://ai-bot.cn/sites/57279.html",
+      "description": "AI 3D模型生成工具，文字或图片生成3D模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "59706",
+      "name": "造好物",
+      "url": "https://ai-bot.cn/sites/59706.html",
+      "description": "全球首个一站式AI造物平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "38477",
+      "name": "Hitems",
+      "url": "https://ai-bot.cn/sites/38477.html",
+      "description": "数美万物推出的AI创意物品生成社区",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "67092",
+      "name": "Style3D",
+      "url": "https://ai-bot.cn/sites/67092.html",
+      "description": "AI服装设计工具，将草图转为3D服装模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69990",
+      "name": "LuxReal",
+      "url": "https://ai-bot.cn/sites/69990.html",
+      "description": "群核科技推出的AI 3D视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11164",
+      "name": "VoxCraft",
+      "url": "https://ai-bot.cn/sites/11164.html",
+      "description": "AI生成3D模型的工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6080",
+      "name": "Meshy",
+      "url": "https://ai-bot.cn/sites/6080.html",
+      "description": "AI快速从文本或图像生成3D模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61375",
+      "name": "绘蛙AI抠图",
+      "url": "https://ai-bot.cn/sites/61375.html",
+      "description": "绘蛙推出的AI智能抠图工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68297",
+      "name": "LiblibAI抠图",
+      "url": "https://ai-bot.cn/sites/68297.html",
+      "description": "LiblibAI推出的AI抠图工作流",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1991",
+      "name": "美图抠图",
+      "url": "https://ai-bot.cn/sites/1991.html",
+      "description": "美图秀秀推出的AI智能抠图工具，一键移除背景",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4483",
+      "name": "顽兔抠图",
+      "url": "https://ai-bot.cn/sites/4483.html",
+      "description": "阿里推出的一键去除商品图背景工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "18104",
+      "name": "鲜艺AI抠图",
+      "url": "https://ai-bot.cn/sites/18104.html",
+      "description": "免费AI抠图工具，支持离线安装使用",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70008",
+      "name": "抠抠图",
+      "url": "https://ai-bot.cn/sites/70008.html",
+      "description": "免费在线AI抠图工具，一键批量抠图",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "32253",
+      "name": "Pic Copilot AI抠图",
+      "url": "https://ai-bot.cn/sites/32253.html",
+      "description": "Pic Copilot推出的AI抠图工具，支持批量抠图",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61292",
+      "name": "光子AI抠图",
+      "url": "https://ai-bot.cn/sites/61292.html",
+      "description": "光子AI推出的AI图片背景抠除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7983",
+      "name": "Pixian.AI",
+      "url": "https://ai-bot.cn/sites/7983.html",
+      "description": "免费的AI图片背景抠除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "88",
+      "name": "Icons8 Background Remover",
+      "url": "https://ai-bot.cn/sites/88.html",
+      "description": "Icons8出品的免费图片背景移除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "242",
+      "name": "BgSub",
+      "url": "https://ai-bot.cn/sites/242.html",
+      "description": "免费的保护隐私的AI图片背景去除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "221",
+      "name": "ClipDrop Remove Background",
+      "url": "https://ai-bot.cn/sites/221.html",
+      "description": "ClipDrop出品的AI图片背景移除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "285",
+      "name": "Erase.bg",
+      "url": "https://ai-bot.cn/sites/285.html",
+      "description": "在线抠图和去除图片背景",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "9946",
+      "name": "千图设计室AI助手",
+      "url": "https://ai-bot.cn/sites/9946.html",
+      "description": "AI绘画抠图工具集",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "313",
+      "name": "Adobe Image Background Remover",
+      "url": "https://ai-bot.cn/sites/313.html",
+      "description": "Adobe Express的图片背景移除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "87",
+      "name": "Removal.AI",
+      "url": "https://ai-bot.cn/sites/87.html",
+      "description": "AI图片背景移除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "274",
+      "name": "Background Eraser",
+      "url": "https://ai-bot.cn/sites/274.html",
+      "description": "AI自动删除图片背景",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "311",
+      "name": "Slazzer",
+      "url": "https://ai-bot.cn/sites/311.html",
+      "description": "免费在线抠除图片背景",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "306",
+      "name": "Cutout.Pro抠图",
+      "url": "https://ai-bot.cn/sites/306.html",
+      "description": "AI批量抠图去背景",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "42689",
+      "name": "吐司AI抠图",
+      "url": "https://ai-bot.cn/sites/42689.html",
+      "description": "吐司AI推出的智能抠图工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "304",
+      "name": "BGremover",
+      "url": "https://ai-bot.cn/sites/304.html",
+      "description": "Vance AI推出的图片背景移除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "312",
+      "name": "Quicktools Background Remover",
+      "url": "https://ai-bot.cn/sites/312.html",
+      "description": "Picsart旗下的Quicktools推出的图片背景移除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "302",
+      "name": "Zyro AI Background Remover",
+      "url": "https://ai-bot.cn/sites/302.html",
+      "description": "Zyro推出的AI图片背景移除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "284",
+      "name": "PhotoScissors",
+      "url": "https://ai-bot.cn/sites/284.html",
+      "description": "免费自动图片背景去除",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "310",
+      "name": "ClippingMagic",
+      "url": "https://ai-bot.cn/sites/310.html",
+      "description": "魔术般地去除图片背景",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1780",
+      "name": "图可丽",
+      "url": "https://ai-bot.cn/sites/1780.html",
+      "description": "AI图片和视频抠图，一键抠图神器",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "303",
+      "name": "Hotpot AI Background Remover",
+      "url": "https://ai-bot.cn/sites/303.html",
+      "description": "Hotpot.ai推出的图片背景移除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "174",
+      "name": "Stylized",
+      "url": "https://ai-bot.cn/sites/174.html",
+      "description": "AI产品图背景替换",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "178",
+      "name": "Booth.ai",
+      "url": "https://ai-bot.cn/sites/178.html",
+      "description": "高质量AI产品展示效果图生成",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "3382",
+      "name": "堆友AI反应堆",
+      "url": "https://ai-bot.cn/sites/3382.html",
+      "description": "阿里堆友推出的多风格AI绘画生成器",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6474",
+      "name": "LiblibAI·哩布哩布AI",
+      "url": "https://ai-bot.cn/sites/6474.html",
+      "description": "国内领先的AI图像创作平台和模型分享社区",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "56",
+      "name": "Midjourney",
+      "url": "https://ai-bot.cn/sites/56.html",
+      "description": "AI图像和插画生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "123",
+      "name": "Stable Diffusion",
+      "url": "https://ai-bot.cn/sites/123.html",
+      "description": "StabilityAI推出的文本到图像生成AI",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6297",
+      "name": "Civitai",
+      "url": "https://ai-bot.cn/sites/6297.html",
+      "description": "免费的AI图像绘画作品和模型分享平台和社区",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "3400",
+      "name": "通义万相",
+      "url": "https://ai-bot.cn/sites/3400.html",
+      "description": "阿里推出的AI创意内容生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4749",
+      "name": "秒画",
+      "url": "https://ai-bot.cn/sites/4749.html",
+      "description": "商汤科技推出的免费AI作画和图片生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2976",
+      "name": "WHEE",
+      "url": "https://ai-bot.cn/sites/2976.html",
+      "description": "美图推出的AI图片和绘画创作生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12769",
+      "name": "奇域AI",
+      "url": "https://ai-bot.cn/sites/12769.html",
+      "description": "中式审美国风AI绘画创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5198",
+      "name": "触手AI绘画",
+      "url": "https://ai-bot.cn/sites/5198.html",
+      "description": "免费专业的AI绘画/模型/分享平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2382",
+      "name": "造梦日记",
+      "url": "https://ai-bot.cn/sites/2382.html",
+      "description": "AI一下，妙笔生画",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "58",
+      "name": "Canva AI图像生成",
+      "url": "https://ai-bot.cn/sites/58.html",
+      "description": "在线设计工具Canva推出的AI图像生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "10982",
+      "name": "超能画布",
+      "url": "https://ai-bot.cn/sites/10982.html",
+      "description": "百度网盘推出的AI创意图像写真创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "912",
+      "name": "Bing Image Creator",
+      "url": "https://ai-bot.cn/sites/912.html",
+      "description": "微软必应推出的基于DALL·E的AI图像生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "726",
+      "name": "Adobe Firefly",
+      "url": "https://ai-bot.cn/sites/726.html",
+      "description": "Adobe最新推出的AI图片生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4009",
+      "name": "简单AI",
+      "url": "https://ai-bot.cn/sites/4009.html",
+      "description": "搜狐推出的AI图片生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11123",
+      "name": "摩笔马良",
+      "url": "https://ai-bot.cn/sites/11123.html",
+      "description": "摩尔线程推出的AI图像绘画创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12987",
+      "name": "Exactly.ai",
+      "url": "https://ai-bot.cn/sites/12987.html",
+      "description": "专业的AI绘画和艺术创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2505",
+      "name": "画宇宙",
+      "url": "https://ai-bot.cn/sites/2505.html",
+      "description": "人工智能AI作画网站",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2342",
+      "name": "6pen Art",
+      "url": "https://ai-bot.cn/sites/2342.html",
+      "description": "面包多团队推出的从文本描述生成绘画艺术作品",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1818",
+      "name": "创客贴AI画匠",
+      "url": "https://ai-bot.cn/sites/1818.html",
+      "description": "创客贴推出的AI艺术画生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6463",
+      "name": "Visual Electric",
+      "url": "https://ai-bot.cn/sites/6463.html",
+      "description": "专业的高质量AI图像创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6840",
+      "name": "360智绘",
+      "url": "https://ai-bot.cn/sites/6840.html",
+      "description": "360推出的AI图片和绘画生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4212",
+      "name": "网易AI创意工坊",
+      "url": "https://ai-bot.cn/sites/4212.html",
+      "description": "网易云课堂推出的AI作画平台，在线使用Stable Diffusion出图",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6492",
+      "name": "Imagine with Meta",
+      "url": "https://ai-bot.cn/sites/6492.html",
+      "description": "Meta最新推出的在线AI图像生成器",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2762",
+      "name": "Freepik AI Image Generator",
+      "url": "https://ai-bot.cn/sites/2762.html",
+      "description": "Freepik最新推出的AI图片生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "151",
+      "name": "Stockimg AI",
+      "url": "https://ai-bot.cn/sites/151.html",
+      "description": "AI生成各种类型的图像和插画",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "3529",
+      "name": "Stable Doodle",
+      "url": "https://ai-bot.cn/sites/3529.html",
+      "description": "StabilityAI最新推出的将手绘草图转换成精美图像的工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2676",
+      "name": "175FUN",
+      "url": "https://ai-bot.cn/sites/2676.html",
+      "description": "免费AI绘画社区，国货之光",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61388",
+      "name": "堆友AI高清",
+      "url": "https://ai-bot.cn/sites/61388.html",
+      "description": "AI图片无损放大工具，支持4倍、9倍、16倍",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "56509",
+      "name": "绘蛙AI高清",
+      "url": "https://ai-bot.cn/sites/56509.html",
+      "description": "绘蛙推出的AI图像高清修复工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "33867",
+      "name": "美图无损放大",
+      "url": "https://ai-bot.cn/sites/33867.html",
+      "description": "美图设计室推出的AI图片变清晰工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68439",
+      "name": "LiblibAI高清放大",
+      "url": "https://ai-bot.cn/sites/68439.html",
+      "description": "LiblibAI推出的AI高清放大工作流",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1531",
+      "name": "Upscayl",
+      "url": "https://ai-bot.cn/sites/1531.html",
+      "description": "免费开源的AI图片无损放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2576",
+      "name": "GoProd",
+      "url": "https://ai-bot.cn/sites/2576.html",
+      "description": "Icons8推出的智能图片背景移除和无损放大二合一Mac应用",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "210",
+      "name": "BigJPG",
+      "url": "https://ai-bot.cn/sites/210.html",
+      "description": "免费的在线AI图片无损放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14941",
+      "name": "Mejorar Imagen",
+      "url": "https://ai-bot.cn/sites/14941.html",
+      "description": "AI图像放大增强工具，快速放大至10倍或12K分辨率",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7402",
+      "name": "Magnific AI",
+      "url": "https://ai-bot.cn/sites/7402.html",
+      "description": "强大的AI图像放大工具，最高支持到10K分辨率",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2333",
+      "name": "Let’s Enhance",
+      "url": "https://ai-bot.cn/sites/2333.html",
+      "description": "AI在线免费放大图片并保持图像质量",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "217",
+      "name": "Icons8 Smart Upscaler",
+      "url": "https://ai-bot.cn/sites/217.html",
+      "description": "Icons8出品的AI图片无损放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "220",
+      "name": "ClipDrop Image Upscaler",
+      "url": "https://ai-bot.cn/sites/220.html",
+      "description": "ClipDrop出品的AI图片放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "219",
+      "name": "Img.Upscaler",
+      "url": "https://ai-bot.cn/sites/219.html",
+      "description": "免费的AI图片放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "218",
+      "name": "Fotor AI Image Upscaler",
+      "url": "https://ai-bot.cn/sites/218.html",
+      "description": "Fotor推出的AI图片放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "216",
+      "name": "Zyro AI Image Upscaler",
+      "url": "https://ai-bot.cn/sites/216.html",
+      "description": "Zyro出品的人工智能图片放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "222",
+      "name": "Media.io AI Image Upscaler",
+      "url": "https://ai-bot.cn/sites/222.html",
+      "description": "Media.io推出的AI图片放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "215",
+      "name": "Upscale.media",
+      "url": "https://ai-bot.cn/sites/215.html",
+      "description": "AI图片放大和分辨率修改",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "213",
+      "name": "Nero Image Upscaler",
+      "url": "https://ai-bot.cn/sites/213.html",
+      "description": "AI免费图片无损放大",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "212",
+      "name": "VanceAI Image Resizer",
+      "url": "https://ai-bot.cn/sites/212.html",
+      "description": "VanceAI推出的在线图片尺寸调整工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "211",
+      "name": "PhotoAid Image Upscaler",
+      "url": "https://ai-bot.cn/sites/211.html",
+      "description": "PhotoAid出品的免费在线人工智能图片放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "223",
+      "name": "Upscalepics",
+      "url": "https://ai-bot.cn/sites/223.html",
+      "description": "在线图片放大工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "275",
+      "name": "Image Enlarger",
+      "url": "https://ai-bot.cn/sites/275.html",
+      "description": "AI无损放大图片",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "214",
+      "name": "Pixelhunter",
+      "url": "https://ai-bot.cn/sites/214.html",
+      "description": "AI智能调整图片尺寸用于社交媒体平台发帖",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61396",
+      "name": "堆友AI消除",
+      "url": "https://ai-bot.cn/sites/61396.html",
+      "description": "一键消除图片中的水印、图标、牛皮癣",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "28404",
+      "name": "绘蛙AI消除",
+      "url": "https://ai-bot.cn/sites/28404.html",
+      "description": "免费AI修图工具，一键去除图片中多余元素",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "33683",
+      "name": "美图AI消除",
+      "url": "https://ai-bot.cn/sites/33683.html",
+      "description": "美图设计室推出的AI消除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68305",
+      "name": "LiblibAI去水印",
+      "url": "https://ai-bot.cn/sites/68305.html",
+      "description": "LiblibAI推出的AI去水印工作流",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "49506",
+      "name": "稿定AI消除",
+      "url": "https://ai-bot.cn/sites/49506.html",
+      "description": "AI图像杂物消除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "268",
+      "name": "Hama",
+      "url": "https://ai-bot.cn/sites/268.html",
+      "description": "在线抹除图片中不想要的物体",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "9056",
+      "name": "IOPaint",
+      "url": "https://ai-bot.cn/sites/9056.html",
+      "description": "免费开源的AI图像擦除、修复和处理工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "691",
+      "name": "Bg Eraser",
+      "url": "https://ai-bot.cn/sites/691.html",
+      "description": "图片物体抹除和清理",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "688",
+      "name": "SnapEdit",
+      "url": "https://ai-bot.cn/sites/688.html",
+      "description": "AI移除图片中的任何物体",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "687",
+      "name": "Cleanup.pictures",
+      "url": "https://ai-bot.cn/sites/687.html",
+      "description": "智能移除图片中的物体、文本、污迹、人物或任何不想要的东西",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "307",
+      "name": "Cutout.Pro Retouch",
+      "url": "https://ai-bot.cn/sites/307.html",
+      "description": "Cutout.Pro推出的AI图片物体涂抹去除工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "21260",
+      "name": "蜜蜂剪辑",
+      "url": "https://ai-bot.cn/sites/21260.html",
+      "description": "AI去水印工具，支持图片和30+流行短视频平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "43780",
+      "name": "吐司AI消除",
+      "url": "https://ai-bot.cn/sites/43780.html",
+      "description": "吐司AI推出的AI智能消除、去杂物工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "21255",
+      "name": "HitPaw Watermark Remover",
+      "url": "https://ai-bot.cn/sites/21255.html",
+      "description": "AI图片和视频去水印工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "273",
+      "name": "Magic Eraser",
+      "url": "https://ai-bot.cn/sites/273.html",
+      "description": "AI移除图片中不想要的物体",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1683",
+      "name": "WatermarkRemover",
+      "url": "https://ai-bot.cn/sites/1683.html",
+      "description": "AI智能删除照片中的水印",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68439",
+      "name": "LibLibAI高清修复",
+      "url": "https://ai-bot.cn/sites/68439.html",
+      "description": "AI高清修复工作流",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "49491",
+      "name": "稿定AI变清晰",
+      "url": "https://ai-bot.cn/sites/49491.html",
+      "description": "稿定设计推出的AI变清晰图像处理工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "976",
+      "name": "Facet",
+      "url": "https://ai-bot.cn/sites/976.html",
+      "description": "AI图片修图和优化工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "299",
+      "name": "Relight",
+      "url": "https://ai-bot.cn/sites/299.html",
+      "description": "ClipDrop推出的AI图像打光工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69515",
+      "name": "imgAK",
+      "url": "https://ai-bot.cn/sites/69515.html",
+      "description": "一站式在线 AI 图像处理平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2042",
+      "name": "美图云修",
+      "url": "https://ai-bot.cn/sites/2042.html",
+      "description": "美图推出的专业级AI人像精修软件",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6590",
+      "name": "Remini",
+      "url": "https://ai-bot.cn/sites/6590.html",
+      "description": "AI智能将模糊照片变高清的图像修复工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1680",
+      "name": "jpgHD",
+      "url": "https://ai-bot.cn/sites/1680.html",
+      "description": "人工智能老照片上色和修复",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6075",
+      "name": "像素蛋糕PixCake",
+      "url": "https://ai-bot.cn/sites/6075.html",
+      "description": "简单易用的AI图像精修工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6575",
+      "name": "咻图AI",
+      "url": "https://ai-bot.cn/sites/6575.html",
+      "description": "面向影楼的摄影后期AI修图软件",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69820",
+      "name": "AirBrush",
+      "url": "https://ai-bot.cn/sites/69820.html",
+      "description": "专业级AI图像视频编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "154",
+      "name": "restorePhotos.io",
+      "url": "https://ai-bot.cn/sites/154.html",
+      "description": "AI老照片修复",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "17485",
+      "name": "PicMa Studio",
+      "url": "https://ai-bot.cn/sites/17485.html",
+      "description": "AI一键批量增强、修复、彩色化你的照片",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4246",
+      "name": "transpic",
+      "url": "https://ai-bot.cn/sites/4246.html",
+      "description": "AI图像转绘插画创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "308",
+      "name": "Cutout.Pro老照片上色",
+      "url": "https://ai-bot.cn/sites/308.html",
+      "description": "Cutout.Pro推出的黑白图片上色",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "104",
+      "name": "Palette",
+      "url": "https://ai-bot.cn/sites/104.html",
+      "description": "AI图片调色上色",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "126",
+      "name": "Playground AI",
+      "url": "https://ai-bot.cn/sites/126.html",
+      "description": "AI图片生成和修图",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "42692",
+      "name": "吐司AI高清",
+      "url": "https://ai-bot.cn/sites/42692.html",
+      "description": "吐司AI推出的图片变高清/修复工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "9195",
+      "name": "绘蛙",
+      "url": "https://ai-bot.cn/sites/9195.html",
+      "description": "AI电商营销工具，免费生成商品图",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "3382",
+      "name": "堆友AI反应堆",
+      "url": "https://ai-bot.cn/sites/3382.html",
+      "description": "阿里堆友推出的多风格AI绘画生成器",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6474",
+      "name": "LiblibAI·哩布哩布AI",
+      "url": "https://ai-bot.cn/sites/6474.html",
+      "description": "国内领先的AI图像创作平台和模型分享社区",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "17330",
+      "name": "阿贝智能",
+      "url": "https://ai-bot.cn/sites/17330.html",
+      "description": "一站式AI绘本创作平台，副业变现必备",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "56",
+      "name": "Midjourney",
+      "url": "https://ai-bot.cn/sites/56.html",
+      "description": "AI图像和插画生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2400",
+      "name": "美图设计室",
+      "url": "https://ai-bot.cn/sites/2400.html",
+      "description": "AI图像创作和设计平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "123",
+      "name": "Stable Diffusion",
+      "url": "https://ai-bot.cn/sites/123.html",
+      "description": "StabilityAI推出的文本到图像生成AI",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6297",
+      "name": "Civitai",
+      "url": "https://ai-bot.cn/sites/6297.html",
+      "description": "免费的AI图像绘画作品和模型分享平台和社区",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "63437",
+      "name": "造点AI",
+      "url": "https://ai-bot.cn/sites/63437.html",
+      "description": "夸克团队推出的AI图像与视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "56061",
+      "name": "RunningHub",
+      "url": "https://ai-bot.cn/sites/56061.html",
+      "description": "基于云端ComfyUI的AI图像与视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "3400",
+      "name": "通义万相",
+      "url": "https://ai-bot.cn/sites/3400.html",
+      "description": "阿里推出的AI创意内容生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13002",
+      "name": "可灵AI",
+      "url": "https://ai-bot.cn/sites/13002.html",
+      "description": "快手推出的AI图像和视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4749",
+      "name": "秒画",
+      "url": "https://ai-bot.cn/sites/4749.html",
+      "description": "商汤科技推出的免费AI作画和图片生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2976",
+      "name": "WHEE",
+      "url": "https://ai-bot.cn/sites/2976.html",
+      "description": "美图推出的AI图片和绘画创作生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70059",
+      "name": "呜哩",
+      "url": "https://ai-bot.cn/sites/70059.html",
+      "description": "阿里推出的AIGC创意生产力平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "60138",
+      "name": "insMind",
+      "url": "https://ai-bot.cn/sites/60138.html",
+      "description": "稿定面向全球市场推出的AI图片编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1412",
+      "name": "AI改图神器",
+      "url": "https://ai-bot.cn/sites/1412.html",
+      "description": "AI在线图像编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "71738",
+      "name": "咖图AI",
+      "url": "https://ai-bot.cn/sites/71738.html",
+      "description": "AI图像设计平台，搭载NanoBanana Pro模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70659",
+      "name": "视觉工厂",
+      "url": "https://ai-bot.cn/sites/70659.html",
+      "description": "AI创作工具，支持AI生图和视频生成服务",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70073",
+      "name": "秒绘AI",
+      "url": "https://ai-bot.cn/sites/70073.html",
+      "description": "一键生成爆款图文，免费发布小红书",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68984",
+      "name": "妙话AI",
+      "url": "https://ai-bot.cn/sites/68984.html",
+      "description": "专为内容创作者设计的创意图片生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7050",
+      "name": "Krea AI",
+      "url": "https://ai-bot.cn/sites/7050.html",
+      "description": "实时AI图像、视频生成和编辑平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "56504",
+      "name": "Kira",
+      "url": "https://ai-bot.cn/sites/56504.html",
+      "description": "AI 图像生成与编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "18077",
+      "name": "Photoroom",
+      "url": "https://ai-bot.cn/sites/18077.html",
+      "description": "在线AI图片编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "693",
+      "name": "Ribbet.ai",
+      "url": "https://ai-bot.cn/sites/693.html",
+      "description": "免费的多功能AI图片处理工具箱",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "29264",
+      "name": "万相营造",
+      "url": "https://ai-bot.cn/sites/29264.html",
+      "description": "阿里旗下推出的多模态AI创意生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1418",
+      "name": "悟空图像PhotoSir",
+      "url": "https://ai-bot.cn/sites/1418.html",
+      "description": "新一代专业图像处理软件，更智能、更高效、更好用",
+      "icon": "https://favicon.im/ai-bot.cn"
+    }
+  ],
+  "ai-chatbots": [
+    {
+      "id": "4189",
+      "name": "豆包",
+      "url": "https://ai-bot.cn/sites/4189.html",
+      "description": "智能对话助手，办公创作全能！",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1909",
+      "name": "讯飞星火",
+      "url": "https://ai-bot.cn/sites/1909.html",
+      "description": "AI智能助手，免费PPT生成、深度研究",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12946",
+      "name": "腾讯元宝",
+      "url": "https://ai-bot.cn/sites/12946.html",
+      "description": "腾讯推出的免费AI智能助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "30",
+      "name": "ChatGPT",
+      "url": "https://ai-bot.cn/sites/30.html",
+      "description": "OpenAI 推出的AI聊天机器人",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "460",
+      "name": "Claude",
+      "url": "https://ai-bot.cn/sites/460.html",
+      "description": "Anthropic公司推出的对话式AI智能助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "736",
+      "name": "Gemini",
+      "url": "https://ai-bot.cn/sites/736.html",
+      "description": "Google推出的AI聊天对话机器人Gemini",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11395",
+      "name": "Flowith",
+      "url": "https://ai-bot.cn/sites/11395.html",
+      "description": "一站式使用GPT-5、Claude、Gemini",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14769",
+      "name": "逗逗AI",
+      "url": "https://ai-bot.cn/sites/14769.html",
+      "description": "AI游戏陪玩，支持原神、黑神话、LOL！",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "54501",
+      "name": "DeepSeek",
+      "url": "https://ai-bot.cn/sites/54501.html",
+      "description": "幻方量化推出的AI智能助手和开源大模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "53747",
+      "name": "Kimi智能助手",
+      "url": "https://ai-bot.cn/sites/53747.html",
+      "description": "月之暗面推出的AI智能助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1338",
+      "name": "千问",
+      "url": "https://ai-bot.cn/sites/1338.html",
+      "description": "全能AI助手，基于Qwen模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5368",
+      "name": "Grok",
+      "url": "https://ai-bot.cn/sites/5368.html",
+      "description": "马斯克旗下xAI推出的人工智能助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "62950",
+      "name": "Z.ai",
+      "url": "https://ai-bot.cn/sites/62950.html",
+      "description": "智谱面向全球推出的AI模型体验平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "8835",
+      "name": "MiniMax",
+      "url": "https://ai-bot.cn/sites/8835.html",
+      "description": "MiniMax推出的AI智能问答助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61432",
+      "name": "LongCat",
+      "url": "https://ai-bot.cn/sites/61432.html",
+      "description": "美团推出的自研大模型AI对话平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "669",
+      "name": "文心一言",
+      "url": "https://ai-bot.cn/sites/669.html",
+      "description": "百度推出的基于文心大模型的AI智能助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2005",
+      "name": "智谱清言",
+      "url": "https://ai-bot.cn/sites/2005.html",
+      "description": "智谱推出的全能AI助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14215",
+      "name": "问小白",
+      "url": "https://ai-bot.cn/sites/14215.html",
+      "description": "AI智能助手，支持DeepSeek满血版",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "64622",
+      "name": "百灵大模型",
+      "url": "https://ai-bot.cn/sites/64622.html",
+      "description": "蚂蚁集团推出的 Ling-1T 大模型对话体验平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "53308",
+      "name": "书生大模型",
+      "url": "https://ai-bot.cn/sites/53308.html",
+      "description": "上海人工智能实验室推出的系列AI模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "9802",
+      "name": "阶跃AI",
+      "url": "https://ai-bot.cn/sites/9802.html",
+      "description": "阶跃星辰推出的支持多模态的AI聊天机器人",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12663",
+      "name": "百小应",
+      "url": "https://ai-bot.cn/sites/12663.html",
+      "description": "百川智能推出的免费AI助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1784",
+      "name": "天工AI",
+      "url": "https://ai-bot.cn/sites/1784.html",
+      "description": "昆仑万维推出的AI智能助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11529",
+      "name": "商量SenseChat",
+      "url": "https://ai-bot.cn/sites/11529.html",
+      "description": "商汤科技推出的免费AI聊天助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16356",
+      "name": "Me.bot",
+      "url": "https://ai-bot.cn/sites/16356.html",
+      "description": "心识宇宙推出的个性化AI伴侣产品",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "21956",
+      "name": "Saylo",
+      "url": "https://ai-bot.cn/sites/21956.html",
+      "description": "AI驱动的故事角色扮演游戏应用，沉浸式的剧本互动体验",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "459",
+      "name": "Poe",
+      "url": "https://ai-bot.cn/sites/459.html",
+      "description": "问答社区Quora推出的问答机器人工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6019",
+      "name": "Copilot",
+      "url": "https://ai-bot.cn/sites/6019.html",
+      "description": "微软推出的网页版Copilot助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "137",
+      "name": "Character.AI",
+      "url": "https://ai-bot.cn/sites/137.html",
+      "description": "创建虚拟角色并与其对话",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11358",
+      "name": "Meta AI助手",
+      "url": "https://ai-bot.cn/sites/11358.html",
+      "description": "Meta推出的免费AI聊天助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "457",
+      "name": "Bing新必应",
+      "url": "https://ai-bot.cn/sites/457.html",
+      "description": "微软推出的新版结合了ChatGPT功能的必应",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14989",
+      "name": "Koko AI",
+      "url": "https://ai-bot.cn/sites/14989.html",
+      "description": "Seele公司推出的「AI+3D」情感陪伴产品",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14310",
+      "name": "通义星尘",
+      "url": "https://ai-bot.cn/sites/14310.html",
+      "description": "用AI定制属于你自己的IP角色",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "20683",
+      "name": "CueMe",
+      "url": "https://ai-bot.cn/sites/20683.html",
+      "description": "夸克推出的AI智能对话助手，支持2万字长文写作",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "17432",
+      "name": "造梦次元",
+      "url": "https://ai-bot.cn/sites/17432.html",
+      "description": "AI互动内容平台，虚拟角色逗你开心",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "15123",
+      "name": "Museland",
+      "url": "https://ai-bot.cn/sites/15123.html",
+      "description": "沉浸式AI角色扮演产品",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "23550",
+      "name": "百度AI助手",
+      "url": "https://ai-bot.cn/sites/23550.html",
+      "description": "百度推出的多场景AI智能体助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4841",
+      "name": "小悟空",
+      "url": "https://ai-bot.cn/sites/4841.html",
+      "description": "字节跳动推出的免费AI对话助手和个人助理",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5509",
+      "name": "紫东太初",
+      "url": "https://ai-bot.cn/sites/5509.html",
+      "description": "中科院与武智院推出的千亿参数全模态大模型和助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13251",
+      "name": "小黄蕉",
+      "url": "https://ai-bot.cn/sites/13251.html",
+      "description": "字节跳动旗下推出的AI虚拟交友聊天平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "9412",
+      "name": "冒泡鸭",
+      "url": "https://ai-bot.cn/sites/9412.html",
+      "description": "阶跃星辰推出的AI聊天机器人和智能体平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14574",
+      "name": "Cici",
+      "url": "https://ai-bot.cn/sites/14574.html",
+      "description": "豆包国际版，字节跳动面向海外市场推出的AI助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4453",
+      "name": "百川大模型",
+      "url": "https://ai-bot.cn/sites/4453.html",
+      "description": "百川智能推出的大模型助手，融合了意图理解、信息检索以及强化学习技术",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "8874",
+      "name": "Le Chat",
+      "url": "https://ai-bot.cn/sites/8874.html",
+      "description": "Mistral推出的AI对话聊天助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2198",
+      "name": "百度AI伙伴",
+      "url": "https://ai-bot.cn/sites/2198.html",
+      "description": "百度最新上线的AI搜索对话工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6290",
+      "name": "超级助理",
+      "url": "https://ai-bot.cn/sites/6290.html",
+      "description": "百度智能云发布的基于文心一言的AI原生应用和Copilot“超级助理”",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4080",
+      "name": "钉钉·个人版",
+      "url": "https://ai-bot.cn/sites/4080.html",
+      "description": "钉钉推出的个人版办公应用程序，内置AI智能助手，可进行AI创作、AI对话、AI绘画",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14297",
+      "name": "Wanderboat",
+      "url": "https://ai-bot.cn/sites/14297.html",
+      "description": "硅谷初创公司UTA AI推出的AI旅行助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5533",
+      "name": "MChat",
+      "url": "https://ai-bot.cn/sites/5533.html",
+      "description": "基于孟子GPT大模型的AI对话机器人",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4362",
+      "name": "Luca面壁露卡",
+      "url": "https://ai-bot.cn/sites/4362.html",
+      "description": "面壁智能推出的千亿多模态大模型免费智能对话助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5678",
+      "name": "元象XChat",
+      "url": "https://ai-bot.cn/sites/5678.html",
+      "description": "元象XVERSE大模型驱动的AI聊天助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6101",
+      "name": "ChitChop",
+      "url": "https://ai-bot.cn/sites/6101.html",
+      "description": "字节旗下面向海外用户推出的免费大模型产品和AI助手工具箱",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "3403",
+      "name": "魔搭GPT（ModelScopeGPT）",
+      "url": "https://ai-bot.cn/sites/3403.html",
+      "description": "阿里达摩院推出的大小模型协同的智能助手，具备作诗、绘画、视频生成、语音播放等多模态能力",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2034",
+      "name": "Forefront",
+      "url": "https://ai-bot.cn/sites/2034.html",
+      "description": "提供GPT-3.5、GPT-4、Claude的AI聊天机器人",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1978",
+      "name": "HuggingChat",
+      "url": "https://ai-bot.cn/sites/1978.html",
+      "description": "HuggingFace推出的在线聊天机器人，基于Open Assistant模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2771",
+      "name": "TigerBot",
+      "url": "https://ai-bot.cn/sites/2771.html",
+      "description": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "3973",
+      "name": "Stable Chat",
+      "url": "https://ai-bot.cn/sites/3973.html",
+      "description": "Stability AI 最新推出的免费聊天对话网站",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1220",
+      "name": "ColossalChat",
+      "url": "https://ai-bot.cn/sites/1220.html",
+      "description": "Colossal-AI推出的免费开源版ChatGPT聊天机器人替代品",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "141",
+      "name": "Jasper Chat",
+      "url": "https://ai-bot.cn/sites/141.html",
+      "description": "Jasper针对内容创作者出品的AI聊天工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1858",
+      "name": "MOSS",
+      "url": "https://ai-bot.cn/sites/1858.html",
+      "description": "复旦大学团队开发的对话式大型语言模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "140",
+      "name": "YouChat AI",
+      "url": "https://ai-bot.cn/sites/140.html",
+      "description": "AI搜索对话工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "139",
+      "name": "ChatSonic",
+      "url": "https://ai-bot.cn/sites/139.html",
+      "description": "WriteSonic出品的ChatGPT竞品",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "138",
+      "name": "Replika",
+      "url": "https://ai-bot.cn/sites/138.html",
+      "description": "AI对话陪伴工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1539",
+      "name": "商量SenseChat",
+      "url": "https://ai-bot.cn/sites/1539.html",
+      "description": "商汤科技推出的类ChatGPT的人工智能大语言模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "163",
+      "name": "Whispr",
+      "url": "https://ai-bot.cn/sites/163.html",
+      "description": "免费AI对话回应",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1656",
+      "name": "Open Assistant",
+      "url": "https://ai-bot.cn/sites/1656.html",
+      "description": "免费开源的对话式AI，GitHub星标超3万",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2122",
+      "name": "Pi",
+      "url": "https://ai-bot.cn/sites/2122.html",
+      "description": "DeepMind联创新公司推出的AI聊天机器人",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1710",
+      "name": "Inworld",
+      "url": "https://ai-bot.cn/sites/1710.html",
+      "description": "开发和创建AI虚拟角色并与其互动",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1714",
+      "name": "360智脑",
+      "url": "https://ai-bot.cn/sites/1714.html",
+      "description": "360搜索最新推出的AI对话聊天机器人",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1890",
+      "name": "Neeva",
+      "url": "https://ai-bot.cn/sites/1890.html",
+      "description": "集成了AI问答的AI搜索引擎",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1608",
+      "name": "对话写作猫",
+      "url": "https://ai-bot.cn/sites/1608.html",
+      "description": "秘塔写作猫推出的AI对话聊天工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4655",
+      "name": "应事AI",
+      "url": "https://ai-bot.cn/sites/4655.html",
+      "description": "MiniMax推出的AI对话助理，已免费开放",
+      "icon": "https://favicon.im/ai-bot.cn"
+    }
+  ],
+  "ai-programming-tools": [
+    {
+      "id": "65814",
+      "name": "TRAE",
+      "url": "https://ai-bot.cn/sites/65814.html",
+      "description": "字节跳动推出的 AI IDE 编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "65909",
+      "name": "秒哒",
+      "url": "https://ai-bot.cn/sites/65909.html",
+      "description": "无代码AI应用开发平台，一句话做应用",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6519",
+      "name": "代码小浣熊",
+      "url": "https://ai-bot.cn/sites/6519.html",
+      "description": "商汤科技推出的免费AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69806",
+      "name": "OpenCode",
+      "url": "https://ai-bot.cn/sites/69806.html",
+      "description": "开源 AI 编程工具 ， Claude Code 最佳平替",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "56948",
+      "name": "Claude Code",
+      "url": "https://ai-bot.cn/sites/56948.html",
+      "description": "Anthropic 推出的AI编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "906",
+      "name": "Cursor",
+      "url": "https://ai-bot.cn/sites/906.html",
+      "description": "AI代码编辑器，快速进行编程和软件开发",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "60584",
+      "name": "Qoder",
+      "url": "https://ai-bot.cn/sites/60584.html",
+      "description": "阿里巴巴推出的 AI Agentic 编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69903",
+      "name": "Kilo Code",
+      "url": "https://ai-bot.cn/sites/69903.html",
+      "description": "开源的 AI 编程扩展插件",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "66843",
+      "name": "Google Antigravity",
+      "url": "https://ai-bot.cn/sites/66843.html",
+      "description": "谷歌推出的 AI IDE 编程智能体",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "57086",
+      "name": "Kiro",
+      "url": "https://ai-bot.cn/sites/57086.html",
+      "description": "亚马逊公司推出的 AI IDE",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70432",
+      "name": "YouWare",
+      "url": "https://ai-bot.cn/sites/70432.html",
+      "description": "一站式 AI 编程社区与开发平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "53",
+      "name": "Codex",
+      "url": "https://ai-bot.cn/sites/53.html",
+      "description": "OpenAI推出的AI编程模型和工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69134",
+      "name": "Zcode",
+      "url": "https://ai-bot.cn/sites/69134.html",
+      "description": "智谱推出的轻量级AI IDE编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "57753",
+      "name": "CodeBuddy IDE",
+      "url": "https://ai-bot.cn/sites/57753.html",
+      "description": "腾讯推出的全栈开发AI IDE",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "60798",
+      "name": "Lovable",
+      "url": "https://ai-bot.cn/sites/60798.html",
+      "description": "全栈AI编程工具，一句话构建网站应用",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "65836",
+      "name": "CatPaw",
+      "url": "https://ai-bot.cn/sites/65836.html",
+      "description": "美团推出的 AI IDE 编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11625",
+      "name": "Augment Code",
+      "url": "https://ai-bot.cn/sites/11625.html",
+      "description": "AI编程辅助工具，专为大型代码库设计",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70526",
+      "name": "MonkeyCode",
+      "url": "https://ai-bot.cn/sites/70526.html",
+      "description": "长亭科技开源的 AI 编程助手与企业级开发平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "64688",
+      "name": "iFlow CLI",
+      "url": "https://ai-bot.cn/sites/64688.html",
+      "description": "心流AI推出的免费终端 AI 智能体",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5269",
+      "name": "通义灵码",
+      "url": "https://ai-bot.cn/sites/5269.html",
+      "description": "阿里推出的免费AI编程工具，基于通义大模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "45",
+      "name": "GitHub Copilot",
+      "url": "https://ai-bot.cn/sites/45.html",
+      "description": "GitHub推出的AI编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69316",
+      "name": "InfCode",
+      "url": "https://ai-bot.cn/sites/69316.html",
+      "description": "词元无限推出的企业级AI编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "64617",
+      "name": "CodeFlicker",
+      "url": "https://ai-bot.cn/sites/64617.html",
+      "description": "快手推出的AI原生IDE编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61842",
+      "name": "Warp Code",
+      "url": "https://ai-bot.cn/sites/61842.html",
+      "description": "Warp推出的AI编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1616",
+      "name": "CodeWhisperer",
+      "url": "https://ai-bot.cn/sites/1616.html",
+      "description": "亚马逊推出的免费AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "57573",
+      "name": "Zread",
+      "url": "https://ai-bot.cn/sites/57573.html",
+      "description": "专为开发者设计的AI源码解读产品",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "789",
+      "name": "Qodo",
+      "url": "https://ai-bot.cn/sites/789.html",
+      "description": "（原CodiumAI）AI开发平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1131",
+      "name": "CodeGeeX",
+      "url": "https://ai-bot.cn/sites/1131.html",
+      "description": "智谱AI推出的免费AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2613",
+      "name": "Amp",
+      "url": "https://ai-bot.cn/sites/2613.html",
+      "description": "Sourcegraph推出的免费AI编程工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7582",
+      "name": "DevChat",
+      "url": "https://ai-bot.cn/sites/7582.html",
+      "description": "开源的支持多款大模型的AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "57642",
+      "name": "JoyCode",
+      "url": "https://ai-bot.cn/sites/57642.html",
+      "description": "京东云推出的新一代智能编程 AI IDE",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4099",
+      "name": "文心快码",
+      "url": "https://ai-bot.cn/sites/4099.html",
+      "description": "百度推出的AI编程助手，基于文心大模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4055",
+      "name": "iFlyCode",
+      "url": "https://ai-bot.cn/sites/4055.html",
+      "description": "科大讯飞推出的智能编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "22307",
+      "name": "Twinny",
+      "url": "https://ai-bot.cn/sites/22307.html",
+      "description": "专为 VS Code 设计的AI代码补全插件",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12491",
+      "name": "Project IDX",
+      "url": "https://ai-bot.cn/sites/12491.html",
+      "description": "谷歌推出的AI云端开发和代码编辑器",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "55229",
+      "name": "华为云码道",
+      "url": "https://ai-bot.cn/sites/55229.html",
+      "description": "华为推出的一站式AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "938",
+      "name": "Sketch2Code",
+      "url": "https://ai-bot.cn/sites/938.html",
+      "description": "微软AI Lab推出的将手绘草图转换成HTML代码工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5256",
+      "name": "CodeFuse",
+      "url": "https://ai-bot.cn/sites/5256.html",
+      "description": "蚂蚁集团推出的AI代码编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "9382",
+      "name": "Tabby",
+      "url": "https://ai-bot.cn/sites/9382.html",
+      "description": "免费开源的自托管AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11812",
+      "name": "C知道",
+      "url": "https://ai-bot.cn/sites/11812.html",
+      "description": "CSDN推出的AI技术问答工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12890",
+      "name": "驭码CodeRider",
+      "url": "https://ai-bot.cn/sites/12890.html",
+      "description": "极狐GitLab推出的AI编程与软件智能研发助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11414",
+      "name": "Duo Chat",
+      "url": "https://ai-bot.cn/sites/11414.html",
+      "description": "GitLab推出的AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12176",
+      "name": "CodeRabbit",
+      "url": "https://ai-bot.cn/sites/12176.html",
+      "description": "AI驱动的代码审查平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "9533",
+      "name": "Devin",
+      "url": "https://ai-bot.cn/sites/9533.html",
+      "description": "首个全自主的AI软件工程师智能体",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "10880",
+      "name": "Plandex",
+      "url": "https://ai-bot.cn/sites/10880.html",
+      "description": "免费开源的基于终端的AI编程引擎",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7587",
+      "name": "Fitten Code",
+      "url": "https://ai-bot.cn/sites/7587.html",
+      "description": "非十科技推出的免费AI代码助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1908",
+      "name": "BLACKBOX AI",
+      "url": "https://ai-bot.cn/sites/1908.html",
+      "description": "黑箱AI编程助理，快速代码生成",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6690",
+      "name": "Solo",
+      "url": "https://ai-bot.cn/sites/6690.html",
+      "description": "Mozilla推出的零编程无代码AI网站建设工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6557",
+      "name": "JetBrains AI",
+      "url": "https://ai-bot.cn/sites/6557.html",
+      "description": "JetBrains推出的AI编程开发助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "980",
+      "name": "AskCodi",
+      "url": "https://ai-bot.cn/sites/980.html",
+      "description": "你的个人AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "4794",
+      "name": "v0.app",
+      "url": "https://ai-bot.cn/sites/4794.html",
+      "description": "Vercel推出的AI全栈应用构建工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2610",
+      "name": "Boxy",
+      "url": "https://ai-bot.cn/sites/2610.html",
+      "description": "CodeSandbox推出的AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "3051",
+      "name": "Quest AI",
+      "url": "https://ai-bot.cn/sites/3051.html",
+      "description": "AI将设计稿生成React代码，支持JavaScript和TypeScript",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1801",
+      "name": "天工智码Skycode",
+      "url": "https://ai-bot.cn/sites/1801.html",
+      "description": "AI智能编程助手，轻松生成各种代码",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2192",
+      "name": "JamGPT",
+      "url": "https://ai-bot.cn/sites/2192.html",
+      "description": "AI Debug调试助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1774",
+      "name": "aiXcoder",
+      "url": "https://ai-bot.cn/sites/1774.html",
+      "description": "自然语言到代码的方法级代码生成，以及多行智能代码补全",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "772",
+      "name": "AirOps",
+      "url": "https://ai-bot.cn/sites/772.html",
+      "description": "AI SQL语句生成和修改",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2325",
+      "name": "Imgcook",
+      "url": "https://ai-bot.cn/sites/2325.html",
+      "description": "阿里推出的免费设计稿智能生成前端代码",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2051",
+      "name": "Deco",
+      "url": "https://ai-bot.cn/sites/2051.html",
+      "description": "京东推出的设计稿一键生成多端代码工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "853",
+      "name": "Ghostwriter",
+      "url": "https://ai-bot.cn/sites/853.html",
+      "description": "知名在线编程IDE Replit推出的AI编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "791",
+      "name": "Codiga",
+      "url": "https://ai-bot.cn/sites/791.html",
+      "description": "AI代码实时分析",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "933",
+      "name": "Locofy",
+      "url": "https://ai-bot.cn/sites/933.html",
+      "description": "AI无代码工具将Figma、Adobe XD和Sketch设计转换成前端代码",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "928",
+      "name": "Fronty",
+      "url": "https://ai-bot.cn/sites/928.html",
+      "description": "AI智能将图片转换成HTML和CSS代码",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "161",
+      "name": "MarsX",
+      "url": "https://ai-bot.cn/sites/161.html",
+      "description": "AI无代码软件开发",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "110",
+      "name": "Tabnine",
+      "url": "https://ai-bot.cn/sites/110.html",
+      "description": "AI代码自动补全编程助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1493",
+      "name": "Debuild",
+      "url": "https://ai-bot.cn/sites/1493.html",
+      "description": "低代码快速开发网页应用",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "116",
+      "name": "Warp",
+      "url": "https://ai-bot.cn/sites/116.html",
+      "description": "21世纪的终端工具（内置AI命令搜索）",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "114",
+      "name": "Fig",
+      "url": "https://ai-bot.cn/sites/114.html",
+      "description": "下一代命令行工具（内置AI终端命令自动补全）",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "113",
+      "name": "CodeSnippets",
+      "url": "https://ai-bot.cn/sites/113.html",
+      "description": "AI代码生成、补全、分析、重构和调试",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2127",
+      "name": "Hocoos",
+      "url": "https://ai-bot.cn/sites/2127.html",
+      "description": "无代码AI智能在线快速创建网站",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "480",
+      "name": "HTTPie AI",
+      "url": "https://ai-bot.cn/sites/480.html",
+      "description": "AI API开发工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "479",
+      "name": "AI Code Reviewer",
+      "url": "https://ai-bot.cn/sites/479.html",
+      "description": "AI代码检查",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "112",
+      "name": "Visual Studio IntelliCode",
+      "url": "https://ai-bot.cn/sites/112.html",
+      "description": "Visual Studio AI辅助开发",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "115",
+      "name": "HeyCLI",
+      "url": "https://ai-bot.cn/sites/115.html",
+      "description": "自然语言转义为CLI命令",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "111",
+      "name": "Codeium",
+      "url": "https://ai-bot.cn/sites/111.html",
+      "description": "免费的AI编程工具，智能生成和补全代码",
+      "icon": "https://favicon.im/ai-bot.cn"
+    }
+  ],
+  "ai-video-tools": [
+    {
+      "id": "66771",
+      "name": "LiblibAI",
+      "url": "https://ai-bot.cn/sites/66771.html",
+      "description": "一站式 AI 内容创作生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "33687",
+      "name": "绘蛙AI视频",
+      "url": "https://ai-bot.cn/sites/33687.html",
+      "description": "绘蛙推出的AI图生视频工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "35756",
+      "name": "SoundView",
+      "url": "https://ai-bot.cn/sites/35756.html",
+      "description": "Sora视频去水印，AI视频本地化工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "60378",
+      "name": "Keevx",
+      "url": "https://ai-bot.cn/sites/60378.html",
+      "description": "开箱即用的AI数字人视频创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "10847",
+      "name": "有言",
+      "url": "https://ai-bot.cn/sites/10847.html",
+      "description": "一站式AI视频创作和3D数字人生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "60917",
+      "name": "HeyGen",
+      "url": "https://ai-bot.cn/sites/60917.html",
+      "description": "专业的AI数字人视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "61400",
+      "name": "堆友AI视频",
+      "url": "https://ai-bot.cn/sites/61400.html",
+      "description": "堆友AI推出的免费AI视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13065",
+      "name": "白日梦",
+      "url": "https://ai-bot.cn/sites/13065.html",
+      "description": "领先AI创作平台，可生成最长50分钟的视频",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "17772",
+      "name": "即梦AI",
+      "url": "https://ai-bot.cn/sites/17772.html",
+      "description": "一站式AI视频、图片、数字人创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70438",
+      "name": "Pollo AI",
+      "url": "https://ai-bot.cn/sites/70438.html",
+      "description": "一站式AI图像和视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14695",
+      "name": "Vidu",
+      "url": "https://ai-bot.cn/sites/14695.html",
+      "description": "生数科技推出的AI视频生成大模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "8613",
+      "name": "Sora",
+      "url": "https://ai-bot.cn/sites/8613.html",
+      "description": "OpenAI推出的AI视频生成模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11290",
+      "name": "蝉镜",
+      "url": "https://ai-bot.cn/sites/11290.html",
+      "description": "AI数字人视频生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "45413",
+      "name": "JoyPix",
+      "url": "https://ai-bot.cn/sites/45413.html",
+      "description": "AI数字人创作工具，支持声音克隆",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13186",
+      "name": "可灵AI",
+      "url": "https://ai-bot.cn/sites/13186.html",
+      "description": "快手推出的AI视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "46196",
+      "name": "腾讯混元AI视频",
+      "url": "https://ai-bot.cn/sites/46196.html",
+      "description": "腾讯推出的AI视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68669",
+      "name": "魔珐星云",
+      "url": "https://ai-bot.cn/sites/68669.html",
+      "description": "具身智能3D数字人开放平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68040",
+      "name": "雾象",
+      "url": "https://ai-bot.cn/sites/68040.html",
+      "description": "免费开源的AI动画生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "66332",
+      "name": "TapNow",
+      "url": "https://ai-bot.cn/sites/66332.html",
+      "description": "AI视觉内容创作平台，提供多种预设工作流",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "73776",
+      "name": "LibTV",
+      "url": "https://ai-bot.cn/sites/73776.html",
+      "description": "LiblibAI 推出的专业AI视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "59035",
+      "name": "Higgsfield",
+      "url": "https://ai-bot.cn/sites/59035.html",
+      "description": "AI视频生成工具，支持专业运镜效果",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "63437",
+      "name": "造点AI",
+      "url": "https://ai-bot.cn/sites/63437.html",
+      "description": "夸克团队推出的AI图像与视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "66554",
+      "name": "造次",
+      "url": "https://ai-bot.cn/sites/66554.html",
+      "description": "AI原创IP视频社区",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "67673",
+      "name": "花生AI",
+      "url": "https://ai-bot.cn/sites/67673.html",
+      "description": "B站推出的AI视频创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "73537",
+      "name": "MuseArt AI",
+      "url": "https://ai-bot.cn/sites/73537.html",
+      "description": "一站式 AI 图像和视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "73422",
+      "name": "AniShort",
+      "url": "https://ai-bot.cn/sites/73422.html",
+      "description": "AI短剧协同创作平台，重构短剧生产流程",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "70208",
+      "name": "献丑AI",
+      "url": "https://ai-bot.cn/sites/70208.html",
+      "description": "首个 AI 视频开源社区，支持一键Fork与共创",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69647",
+      "name": "MochiAni",
+      "url": "https://ai-bot.cn/sites/69647.html",
+      "description": "AI动画视频创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "72345",
+      "name": "AdsTurbo AI",
+      "url": "https://ai-bot.cn/sites/72345.html",
+      "description": "AI视频广告生成平台，自动生成可直接投放的视频",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69946",
+      "name": "NextCut AI",
+      "url": "https://ai-bot.cn/sites/69946.html",
+      "description": "AI视频创作工具，集成无限画布 + workflow + 剪辑轨道 + 多Agent团队",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69629",
+      "name": "云幕同声",
+      "url": "https://ai-bot.cn/sites/69629.html",
+      "description": "专业AI视频翻译，短剧出海、跨境电商，效果超棒！",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "63694",
+      "name": "萌动AI",
+      "url": "https://ai-bot.cn/sites/63694.html",
+      "description": "全球首个二次元/动漫专用 AI 创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "68087",
+      "name": "KomikoAI",
+      "url": "https://ai-bot.cn/sites/68087.html",
+      "description": "一站式AI动漫内容创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "5560",
+      "name": "即创",
+      "url": "https://ai-bot.cn/sites/5560.html",
+      "description": "抖音推出的一站式AI智能创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "59040",
+      "name": "智谱清影",
+      "url": "https://ai-bot.cn/sites/59040.html",
+      "description": "智谱推出的免费AI视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "65041",
+      "name": "内容特工队",
+      "url": "https://ai-bot.cn/sites/65041.html",
+      "description": "全球首款移动端AI营销视频生成智能体",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "62311",
+      "name": "磁力开创",
+      "url": "https://ai-bot.cn/sites/62311.html",
+      "description": "快手推出的AI创意生产平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "69913",
+      "name": "A2E",
+      "url": "https://ai-bot.cn/sites/69913.html",
+      "description": "一站式AI视频生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "64276",
+      "name": "HitPaw",
+      "url": "https://ai-bot.cn/sites/64276.html",
+      "description": "专注于AI视频、图像和音频处理工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "240",
+      "name": "Runway",
+      "url": "https://ai-bot.cn/sites/240.html",
+      "description": "AI视频工具，绿幕抠除、视频生成、动态捕捉等功能",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6263",
+      "name": "Pika",
+      "url": "https://ai-bot.cn/sites/6263.html",
+      "description": "Pika Labs推出的AI视频生成和编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12385",
+      "name": "KreadoAI",
+      "url": "https://ai-bot.cn/sites/12385.html",
+      "description": "AI数字人视频营销创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "63158",
+      "name": "SekoTalk",
+      "url": "https://ai-bot.cn/sites/63158.html",
+      "description": "商汤科技推出的AI对口型工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "63255",
+      "name": "通义灵眸",
+      "url": "https://ai-bot.cn/sites/63255.html",
+      "description": "阿里通义推出的AI数字人生产平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16162",
+      "name": "巨日禄",
+      "url": "https://ai-bot.cn/sites/16162.html",
+      "description": "一站式AI动漫视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "59515",
+      "name": "Boba",
+      "url": "https://ai-bot.cn/sites/59515.html",
+      "description": "AI动漫视频创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13455",
+      "name": "Dream Machine",
+      "url": "https://ai-bot.cn/sites/13455.html",
+      "description": "Luma AI推出的AI视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12254",
+      "name": "讯飞绘镜",
+      "url": "https://ai-bot.cn/sites/12254.html",
+      "description": "科大讯飞推出的AI短视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13679",
+      "name": "Hedra",
+      "url": "https://ai-bot.cn/sites/13679.html",
+      "description": "AI对口型视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14640",
+      "name": "Vozo",
+      "url": "https://ai-bot.cn/sites/14640.html",
+      "description": "多功能AI视频编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11148",
+      "name": "Viggle",
+      "url": "https://ai-bot.cn/sites/11148.html",
+      "description": "AI生成可控的角色动态视频的工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16651",
+      "name": "Tavus",
+      "url": "https://ai-bot.cn/sites/16651.html",
+      "description": "AI数字人克隆和AI视频实时对话工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "50033",
+      "name": "妙播",
+      "url": "https://ai-bot.cn/sites/50033.html",
+      "description": "腾讯广告推出的AI直播电商解决方案",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1880",
+      "name": "秒创",
+      "url": "https://ai-bot.cn/sites/1880.html",
+      "description": "AIGC内容创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16753",
+      "name": "SkyReels",
+      "url": "https://ai-bot.cn/sites/16753.html",
+      "description": "昆仑万维推出的AI短剧创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13399",
+      "name": "MOKI",
+      "url": "https://ai-bot.cn/sites/13399.html",
+      "description": "美图推出的AI视频短片创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "20030",
+      "name": "Flow Studio",
+      "url": "https://ai-bot.cn/sites/20030.html",
+      "description": "FlowGPT推出的AI长视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "15664",
+      "name": "Vizard",
+      "url": "https://ai-bot.cn/sites/15664.html",
+      "description": "将长视频转为社交短视频的AI工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14162",
+      "name": "寻光",
+      "url": "https://ai-bot.cn/sites/14162.html",
+      "description": "阿里达摩院推出的全流程AI视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16965",
+      "name": "Hotshot",
+      "url": "https://ai-bot.cn/sites/16965.html",
+      "description": "AI视频生成工具，将文本转为3秒逼真视频",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12586",
+      "name": "vivago.ai",
+      "url": "https://ai-bot.cn/sites/12586.html",
+      "description": "免费的AI视频生成和图像创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "18010",
+      "name": "Humva",
+      "url": "https://ai-bot.cn/sites/18010.html",
+      "description": "AI数字人生成工具，自定义创建专属数字人",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "987",
+      "name": "D-ID",
+      "url": "https://ai-bot.cn/sites/987.html",
+      "description": "AI真人口播视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "8662",
+      "name": "Stable Video",
+      "url": "https://ai-bot.cn/sites/8662.html",
+      "description": "Stability AI推出的AI视频生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "15182",
+      "name": "OneStory",
+      "url": "https://ai-bot.cn/sites/15182.html",
+      "description": "专业的AI故事生成助手",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13667",
+      "name": "Noisee AI",
+      "url": "https://ai-bot.cn/sites/13667.html",
+      "description": "月之暗面旗下推出的AI音乐视频MV生成工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "1237",
+      "name": "万兴播爆",
+      "url": "https://ai-bot.cn/sites/1237.html",
+      "description": "AI数字人口播视频营销工具，海量素材一键套用",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14067",
+      "name": "Vimi",
+      "url": "https://ai-bot.cn/sites/14067.html",
+      "description": "商汤科技推出的可控人物视频生成AI模型",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "24359",
+      "name": "Etna",
+      "url": "https://ai-bot.cn/sites/24359.html",
+      "description": "七火山科技推出的AI文生视频工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "24161",
+      "name": "艺映AI",
+      "url": "https://ai-bot.cn/sites/24161.html",
+      "description": "AI视频创作工具，支持文生视频、图生视频及视频转漫画功能",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "23891",
+      "name": "LensGo",
+      "url": "https://ai-bot.cn/sites/23891.html",
+      "description": "AI视频创作工具，支持视频转动漫，替换3D人物",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11721",
+      "name": "必剪Studio",
+      "url": "https://ai-bot.cn/sites/11721.html",
+      "description": "B站推出的免费AI数字分身定制和视频创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "2670",
+      "name": "度加创作工具",
+      "url": "https://ai-bot.cn/sites/2670.html",
+      "description": "百度官方出品的AIGC创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "6718",
+      "name": "WinkStudio",
+      "url": "https://ai-bot.cn/sites/6718.html",
+      "description": "美图推出的桌面端AI视频剪辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "23943",
+      "name": "VMagic",
+      "url": "https://ai-bot.cn/sites/23943.html",
+      "description": "AI视频处理平台，提供视频风格转换、换脸、照片舞蹈等功能",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "19680",
+      "name": "讯飞虚拟人",
+      "url": "https://ai-bot.cn/sites/19680.html",
+      "description": "科大讯飞推出的全栈式AI虚拟人应用服务平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "24851",
+      "name": "飞影数字人",
+      "url": "https://ai-bot.cn/sites/24851.html",
+      "description": "AI数字人创作平台，支持免费定制数字人",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "22195",
+      "name": "Video Studio",
+      "url": "https://ai-bot.cn/sites/22195.html",
+      "description": "在线AI视频制作工具，零编辑技能制作专业视频内容",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16633",
+      "name": "Pixfun",
+      "url": "https://ai-bot.cn/sites/16633.html",
+      "description": "一站式动画故事AI视频生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "12250",
+      "name": "Decohere",
+      "url": "https://ai-bot.cn/sites/12250.html",
+      "description": "AI视频生成平台，支持音频同步功能",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16242",
+      "name": "YoYo",
+      "url": "https://ai-bot.cn/sites/16242.html",
+      "description": "鹿影科技推出的二次元动漫视频AI创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16730",
+      "name": "Opus Clip",
+      "url": "https://ai-bot.cn/sites/16730.html",
+      "description": "AI视频切片工具，自动从长视频中提取精彩片段",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16735",
+      "name": "Filmora",
+      "url": "https://ai-bot.cn/sites/16735.html",
+      "description": "万兴科技推出的AI视频编辑工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16749",
+      "name": "Descript",
+      "url": "https://ai-bot.cn/sites/16749.html",
+      "description": "AI视频编辑工具，支持通过编辑文字来剪辑音视频内容",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11975",
+      "name": "曦灵数字人",
+      "url": "https://ai-bot.cn/sites/11975.html",
+      "description": "百度推出的AI数字人和视频创作平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "7280",
+      "name": "开拍",
+      "url": "https://ai-bot.cn/sites/7280.html",
+      "description": "美图推出的AI口播视频制作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "13802",
+      "name": "Duix",
+      "url": "https://ai-bot.cn/sites/13802.html",
+      "description": "硅基智能推出的AI数字人生成平台",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "14469",
+      "name": "场辞",
+      "url": "https://ai-bot.cn/sites/14469.html",
+      "description": "新片场推出的AI视频字幕制作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "16086",
+      "name": "一起剪",
+      "url": "https://ai-bot.cn/sites/16086.html",
+      "description": "AI短视频创作平台，图文一键成片",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "11245",
+      "name": "Spikes Studio",
+      "url": "https://ai-bot.cn/sites/11245.html",
+      "description": "AI自动将长视频切片剪辑为短视频",
+      "icon": "https://favicon.im/ai-bot.cn"
+    },
+    {
+      "id": "10935",
+      "name": "Google Vids",
+      "url": "https://ai-bot.cn/sites/10935.html",
+      "description": "谷歌推出的AI视频创作工具",
+      "icon": "https://favicon.im/ai-bot.cn"
+    }
+  ]
+}
